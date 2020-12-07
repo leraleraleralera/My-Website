@@ -1,0 +1,62 @@
+html{
+    font-family: 'Raleway', sans-serif;
+    background-color: #011627;
+    font-size: 16px;
+    line-height: 1.5;
+    text-indent: 2em;
+    color:#ffe3d8;
+
+}
+
+p{
+    padding: 1em;
+    text-indent: 2em;
+}
+
+ul, ol{
+    padding-left: 3em;
+list-style-position: outside;
+}
+
+h1{
+    font-size: 2.5em;
+    font-style: normal;
+    font-weight:bold;
+}
+
+h2{
+    font-size: 2em;
+color: #C3AED6;
+}
+
+h3{
+    font-size: 1.8em;
+    color:#E26D5A;
+}
+h4{
+    font-size: 1.6em;
+    color: #488286;
+}
+h5{
+    font-size: 1.2em;
+    font-style: italic;
+}
+h6{
+    font-size: 1em;
+}
+a {
+    font-size: 1em;
+    color:#e6cbff8c;
+    text-decoration: none;
+}
+.two-column-list{
+    columns: 2;
+}
+
+.center{
+    text-align: center;
+}
+
+#photo-gallery{
+    text-align: center;
+}
